@@ -24,3 +24,15 @@ For Node.js version 18.x (LTS):
 ```
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 ```
+## 3. Install Node.js
+
+With the repository added, install Node.js and npm (Node Package Manager):
+```
+sudo apt-get install -y nodejs
+```
+## 4. Verify Installation
+Check that Node.js and npm are installed correctly:
+```
+node -v
+npm -v
+```
