@@ -5,6 +5,7 @@ Learning notes and practical examples for developing Telegram bots with AI integ
 ## Table of Contents
 1. [Installation](01-installation/)
     - [Node.js](01-installation/nodejs.md)
+    - easypanel(01-installation/easypanel.md)
     - [n8n](01-installation/n8n.md)
 2. [Creating and Connecting Telegram Bot](02-telegram-bot/)
     - [Creating Bot with BotFather](02-telegram-bot/create-bot.md)
