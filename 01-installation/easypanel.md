@@ -6,5 +6,6 @@ curl -sSL https://get.easypanel.io | bash
 
 When the installation is complete, it will look like this:
 
-![Imgur](https://imgur.com/UnDHgks)
+![Uploading finish install easypanel.png…]()
+
 
