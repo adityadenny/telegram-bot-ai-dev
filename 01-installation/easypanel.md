@@ -6,5 +6,5 @@ curl -sSL https://get.easypanel.io | bash
 
 When the installation is complete, it will look like this:
 
-![finish install easypanel on vps] (https://imgur.com/a/P2uCC13)
+![finish install easypanel on vps](https://imgur.com/a/P2uCC13)
 
