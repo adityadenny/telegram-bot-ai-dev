@@ -13,3 +13,5 @@ Learning notes and practical examples for developing Telegram bots with AI integ
 3. [AI Integration](03-ai-integration/)
     - [Getting Gemini LLM API Key](03-ai-integration/gemini-llm.md)
     - [Integrating Gemini LLM with Telegram](03-ai-integration/integrate-telegram.md)
+
+Thanks
